@@ -1,5 +1,5 @@
 Web 1
-Часть Значение
+Часть | Значение
 --------------------
 Схема | https
 Хост  | jsonplaceholder.typicode.com
@@ -8,7 +8,7 @@ Web 1
 Query | userId=1, _limit=5
 
 Web 8
-Часть Значение
+Часть | Значение
 --------------------
 Схема | https
 Хост  | jsonplaceholder.typicode.com
