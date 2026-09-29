@@ -1,9 +1,9 @@
 Met3.
-Поля, которые послал: name
-Поля в ответе на PUT: id, name
-Поля в ответе на PATCH: id, name, username, email, address, phone, website, company
-Поля, которых не посылал, но они пришли: id, username, email, address, phone, website, company
-Вывод (слияние или эхо): эхо
+Поля, которые послал: name |
+Поля в ответе на PUT: id, name |
+Поля в ответе на PATCH: id, name, username, email, address, phone, website, company |
+Поля, которых не посылал, но они пришли: id, username, email, address, phone, website, company |
+Вывод (слияние или эхо): эхо |
 
 ___________________________________________________________________________________________________________________________
 Met 4
